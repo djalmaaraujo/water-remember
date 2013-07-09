@@ -21,4 +21,4 @@ class WaterRemember
   end
 end
 
-WaterRemember.new()
+WaterRemember.new
