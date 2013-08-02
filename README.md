@@ -15,11 +15,11 @@ Open your crontab, and add this line:
 0 * * * * /path/to/your/script/inside/the/repository/runner
 ```
 
-Edit runner path too.
+Edit the path inside ```runner``` file too.
 
 /Users/djalmaaraujo/dev/ruby/water-remember change to your repository location
 
-I did this to me, there's no easy one-click install.
+I did this for me, there's no easy one-click install.
 
 ### Windows
 Sorry =)
