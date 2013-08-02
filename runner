@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source "$HOME/.rvm/scripts/rvm"
+
+cd /Users/djalmaaraujo/dev/ruby/water-remember
